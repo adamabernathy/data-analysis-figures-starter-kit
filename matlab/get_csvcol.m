@@ -2,7 +2,7 @@ function [B, C] = get_csvcol(f, header,col)
 %get_csvcol returns a column of data from a csv file.
 %
 % f      :: Path of source file
-% header :: No. of header lines in the imput file
+% header :: No. of header lines in the input file
 % col    :: Column you want to extract
 %
 % get_csv & get_csvcol are n = 0 based routines.
